@@ -8,6 +8,6 @@ abstract class Shape
 
 class Octagon : Shape{
 	val sides: Int = 8
-	val color: String = "teal"
+	val color: String = "blue"
 }
 class Circle(var radius : Int = 1): Shape{}
