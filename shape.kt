@@ -6,7 +6,6 @@ abstract class Shape
 	val color: String = "dark"
 }
 
-class Octagon : Shape{
-	val sides: Int = 8
-}
-class Circle(var radius : Int = 1): Shape{}
+<<<<<<< HEAD
+=======
+>>>>>>> main
