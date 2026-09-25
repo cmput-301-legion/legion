@@ -5,3 +5,7 @@ abstract class Shape
 
 	val color: String = "$PUT_YOUR_CHOICE_OF_COLOR"
 }
+
+class Octagon : Shape{
+	val sides: Int = 8
+}
