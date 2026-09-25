@@ -1,0 +1,1 @@
+class Circle(var radius : Int = 1): Shape{}
