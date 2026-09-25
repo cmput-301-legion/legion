@@ -1,1 +1,3 @@
-class Circle(var radius : Int = 1): Shape{}
+class Circle(var radius : Int = 1): Shape{
+var color : String = "dark"
+}
